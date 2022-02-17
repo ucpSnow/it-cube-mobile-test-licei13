@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095601848728",
+    "project_id": "lyceum13-epass",
+    "storage_bucket": "lyceum13-epass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095601848728:android:82b7c137f9bf2548322bed",
+        "android_client_info": {
+          "package_name": "com.example.lyceum13epass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095601848728-63ljdalvlsl9t7a92h04u4kerjp3qrdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATV6Brgf9Nx1QLd-4A_rIe5tCNoiowmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095601848728-63ljdalvlsl9t7a92h04u4kerjp3qrdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
